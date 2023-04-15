@@ -1,0 +1,16 @@
+.section1{
+    height:230px;
+    border:1px solid black;
+}
+h1{
+    margin-top:20px;
+    margin-left:20px;
+}
+p{
+    margin-top:-14px;
+    margin-left:20px;
+    text-align: left;
+}
+#read{
+   margin:15px;
+}
